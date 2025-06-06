@@ -1,8 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=shahabmosavi&color=blue)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sparrowolf)
-[![Email](https://img.shields.io/badge/Gmail-shahab.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahab.programming.git@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shahab.programming)
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sparrowolf)
+[![Email](https://img.shields.io/badge/Email-shahab.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahab.programming.git@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shahab.orogramming)
 
 
 <p align="center">
