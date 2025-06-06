@@ -17,10 +17,7 @@
   </a>
 </p>
 
-
-<h3 align="center">📈 Stats</h3>
-
-<hr />
+## 📈 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahabmosavi&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
