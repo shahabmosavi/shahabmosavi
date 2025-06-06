@@ -1,8 +1,9 @@
-![Profile Views](https://komarev.com/ghpvc/?username=shahabmosavi&color=blue)
+<img src="https://komarev.com/ghpvc/?username=shahabmosavi" alt="shahabmosavi" />
 
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sparrowolf)
-[![Email](https://img.shields.io/badge/Email-shahab.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahab.programming.git@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shahab.orogramming)
+[![LinkedIn Badge](https://img.shields.io/badge/-Shahab%20Mosavi-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahab-mosavi/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/sparrowolf)
+[![Gmail Badge](https://img.shields.io/badge/-shahab.programming.git@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:shahab.programming.git@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@shahab.programming)
 
 
 <p align="center">
